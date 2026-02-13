@@ -1,9 +1,10 @@
-# 🏦 HSBC Banking Risk Analytics — SQL | Power BI | Tableau
+# 🏦 HSBC Banking Risk Analytics — SQL | Excel
 
 ![Database](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql)
 ![Domain](https://img.shields.io/badge/Domain-Banking%20Risk-orange)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-green)
 ![Tools](https://img.shields.io/badge/Tools-SQL%20-yellow)
+![Tools](https://img.shields.io/badge/Tools-Excel%20-red)
 
 ---
 
