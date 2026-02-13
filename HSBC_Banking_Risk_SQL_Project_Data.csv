@@ -1,0 +1,201 @@
+customer_id,full_name,age,gender,state,city,account_type,annual_income_inr,credit_score,loan_amount_inr,loan_type,default_flag,transaction_count_6m,avg_monthly_balance_inr,kyc_status,risk_rating
+1,Customer_1,62,Male,Telangana,Ahmedabad,Savings,1711605,525,2066297,Personal Loan,1,87,75939,Verified,High
+2,Customer_2,28,Female,Delhi,Mumbai,Savings,1176346,457,3742261,Education Loan,1,88,255252,Verified,High
+3,Customer_3,34,Female,Delhi,Mumbai,Current,725965,547,1384346,Education Loan,1,347,478812,Verified,High
+4,Customer_4,61,Female,Tamil Nadu,Mumbai,Current,1295686,871,2741493,Personal Loan,0,20,352081,Verified,Low
+5,Customer_5,49,Female,Telangana,Hyderabad,Savings,307428,842,4347677,None,0,148,335206,Pending,Low
+6,Customer_6,23,Female,Gujarat,Ahmedabad,Current,957369,735,1973715,Personal Loan,0,314,312229,Pending,Low
+7,Customer_7,37,Female,Tamil Nadu,Mumbai,Current,678793,594,3897564,None,1,130,133400,Pending,Medium
+8,Customer_8,52,Female,Tamil Nadu,Delhi,Savings,315355,832,3105457,None,0,259,179480,Verified,Low
+9,Customer_9,35,Male,Gujarat,Chennai,Current,1642776,791,2832297,Car Loan,0,197,240824,Pending,Low
+10,Customer_10,22,Male,Delhi,Bengaluru,Current,481070,301,3373751,Car Loan,1,471,390690,Pending,High
+11,Customer_11,45,Female,Gujarat,Hyderabad,Savings,701962,437,3164481,Home Loan,1,292,223177,Pending,High
+12,Customer_12,58,Female,Maharashtra,Chennai,Savings,1937831,395,3460300,None,1,204,382766,Verified,High
+13,Customer_13,30,Female,Telangana,Ahmedabad,Current,2113698,612,1005206,Personal Loan,0,483,40499,Verified,Medium
+14,Customer_14,34,Female,Maharashtra,Mumbai,Savings,323809,562,2043129,Education Loan,1,400,137885,Pending,Medium
+15,Customer_15,47,Female,Gujarat,Mumbai,Current,517973,638,4916193,Car Loan,0,99,428567,Pending,Medium
+16,Customer_16,51,Male,West Bengal,Kolkata,Current,1967655,577,2994889,None,1,180,298012,Pending,Medium
+17,Customer_17,32,Male,Maharashtra,Kolkata,Savings,517962,398,3548002,None,1,279,195527,Pending,High
+18,Customer_18,25,Male,West Bengal,Chennai,Savings,2032275,891,216040,Personal Loan,0,107,450209,Verified,Low
+19,Customer_19,65,Male,West Bengal,Delhi,Current,452658,825,4622353,Car Loan,0,441,73860,Pending,Low
+20,Customer_20,54,Female,Delhi,Mumbai,Savings,1543405,674,3437417,None,0,326,468130,Pending,Medium
+21,Customer_21,40,Female,Gujarat,Kolkata,Savings,1190521,562,689644,Education Loan,1,89,326012,Pending,Medium
+22,Customer_22,58,Female,West Bengal,Hyderabad,Savings,503506,784,1116082,Personal Loan,0,321,277767,Pending,Low
+23,Customer_23,58,Female,Delhi,Mumbai,Savings,1444951,614,3648270,Home Loan,0,141,359521,Verified,Medium
+24,Customer_24,28,Male,Maharashtra,Kolkata,Savings,750905,686,3278498,Education Loan,0,375,18889,Verified,Medium
+25,Customer_25,61,Male,West Bengal,Chennai,Savings,1382131,664,1886204,None,0,241,187016,Verified,Medium
+26,Customer_26,37,Female,West Bengal,Chennai,Current,282037,643,1401539,Education Loan,0,176,415940,Pending,Medium
+27,Customer_27,34,Female,Tamil Nadu,Hyderabad,Savings,510115,527,3484150,Car Loan,1,157,474133,Pending,High
+28,Customer_28,56,Female,Maharashtra,Mumbai,Savings,765137,370,4916508,Education Loan,1,144,282616,Verified,High
+29,Customer_29,53,Female,Maharashtra,Delhi,Current,1468312,706,1603540,Car Loan,0,427,475708,Verified,Low
+30,Customer_30,46,Male,Telangana,Kolkata,Savings,367930,635,2152533,None,0,463,353435,Pending,Medium
+31,Customer_31,59,Female,Tamil Nadu,Chennai,Current,297590,402,297601,Car Loan,1,312,471368,Verified,High
+32,Customer_32,51,Female,Telangana,Mumbai,Savings,380710,885,873863,None,0,415,492166,Pending,Low
+33,Customer_33,30,Male,Maharashtra,Bengaluru,Savings,1068180,664,2398946,Home Loan,0,215,450515,Pending,Medium
+34,Customer_34,22,Male,Gujarat,Delhi,Current,1133020,596,4993615,Personal Loan,1,122,454646,Verified,Medium
+35,Customer_35,22,Female,West Bengal,Delhi,Current,1954989,752,2882104,Education Loan,0,400,21646,Pending,Low
+36,Customer_36,60,Female,Maharashtra,Kolkata,Savings,1054778,855,946303,Home Loan,0,24,366681,Pending,Low
+37,Customer_37,62,Male,Tamil Nadu,Hyderabad,Savings,805635,816,4045065,Personal Loan,0,137,94405,Verified,Low
+38,Customer_38,62,Male,Karnataka,Ahmedabad,Current,2464549,631,1438274,Car Loan,0,480,15305,Pending,Medium
+39,Customer_39,49,Male,Maharashtra,Delhi,Current,1608018,488,2845296,None,1,145,14087,Pending,High
+40,Customer_40,48,Male,Delhi,Bengaluru,Savings,636941,811,1589509,Home Loan,0,460,357874,Pending,Low
+41,Customer_41,38,Female,Karnataka,Chennai,Current,2082929,592,3957466,Car Loan,1,485,277941,Verified,Medium
+42,Customer_42,55,Male,Delhi,Chennai,Savings,290031,667,245330,None,0,23,103698,Pending,Medium
+43,Customer_43,21,Female,Tamil Nadu,Mumbai,Current,1454170,652,4501923,Home Loan,0,312,20729,Verified,Medium
+44,Customer_44,54,Male,Gujarat,Chennai,Savings,2494680,400,1883046,Education Loan,1,285,473715,Verified,High
+45,Customer_45,25,Female,Telangana,Chennai,Current,2256556,702,4791299,Home Loan,0,119,424148,Verified,Low
+46,Customer_46,43,Male,Maharashtra,Kolkata,Current,1349133,767,4454566,Car Loan,0,434,85944,Verified,Low
+47,Customer_47,24,Male,Tamil Nadu,Kolkata,Savings,223024,690,2683811,Car Loan,0,228,191082,Pending,Medium
+48,Customer_48,48,Female,Tamil Nadu,Ahmedabad,Savings,1117450,626,3043028,Personal Loan,0,259,236918,Pending,Medium
+49,Customer_49,35,Male,Maharashtra,Kolkata,Savings,2037555,538,112787,Home Loan,1,179,173324,Verified,High
+50,Customer_50,29,Female,Tamil Nadu,Kolkata,Current,279741,386,4328927,Home Loan,1,135,95577,Verified,High
+51,Customer_51,24,Male,Gujarat,Ahmedabad,Savings,1983891,348,1661308,None,1,146,43026,Verified,High
+52,Customer_52,49,Female,Gujarat,Delhi,Current,640666,776,3297842,Car Loan,0,274,485110,Verified,Low
+53,Customer_53,38,Male,Telangana,Delhi,Current,2405245,366,113061,Car Loan,1,173,437614,Verified,High
+54,Customer_54,43,Male,West Bengal,Mumbai,Current,1407764,413,994232,Education Loan,1,171,451021,Verified,High
+55,Customer_55,54,Male,Karnataka,Hyderabad,Current,1133115,659,4897990,Car Loan,0,435,254310,Pending,Medium
+56,Customer_56,60,Female,West Bengal,Bengaluru,Savings,1832736,495,1903239,Car Loan,1,346,309439,Verified,High
+57,Customer_57,33,Male,West Bengal,Kolkata,Savings,1054181,817,562449,Education Loan,0,103,412153,Verified,Low
+58,Customer_58,40,Female,Karnataka,Chennai,Current,384378,889,1479572,Car Loan,0,119,468398,Pending,Low
+59,Customer_59,62,Female,Delhi,Delhi,Savings,587321,440,4730993,Car Loan,1,331,211842,Verified,High
+60,Customer_60,28,Male,Telangana,Mumbai,Savings,358665,469,4433346,Personal Loan,1,267,83575,Verified,High
+61,Customer_61,62,Male,West Bengal,Kolkata,Savings,2238040,333,1704807,Car Loan,1,497,135649,Pending,High
+62,Customer_62,62,Male,Karnataka,Bengaluru,Savings,1747592,839,4933123,Car Loan,0,217,299690,Verified,Low
+63,Customer_63,27,Female,West Bengal,Bengaluru,Current,225510,696,1931138,Education Loan,0,31,115734,Verified,Medium
+64,Customer_64,27,Male,Delhi,Mumbai,Current,743466,580,4822218,Education Loan,1,104,242243,Pending,Medium
+65,Customer_65,51,Female,Delhi,Mumbai,Current,2274800,463,443954,Car Loan,1,237,198828,Verified,High
+66,Customer_66,45,Female,West Bengal,Hyderabad,Savings,2495158,753,825450,None,0,326,99073,Pending,Low
+67,Customer_67,25,Male,Maharashtra,Hyderabad,Savings,1736703,539,265713,Education Loan,1,399,93802,Verified,High
+68,Customer_68,54,Male,Tamil Nadu,Hyderabad,Current,2499144,494,2591690,None,1,319,349826,Verified,High
+69,Customer_69,61,Male,Karnataka,Chennai,Current,621201,315,2872338,None,1,493,264072,Verified,High
+70,Customer_70,33,Male,Maharashtra,Mumbai,Savings,1543800,774,133904,Personal Loan,0,472,312670,Pending,Low
+71,Customer_71,53,Male,Karnataka,Kolkata,Savings,1767382,616,559607,Home Loan,0,252,373365,Pending,Medium
+72,Customer_72,42,Female,Karnataka,Chennai,Current,927923,438,4750511,None,1,101,419397,Verified,High
+73,Customer_73,39,Female,Karnataka,Ahmedabad,Savings,2263272,791,3930339,Education Loan,0,294,43709,Verified,Low
+74,Customer_74,56,Male,Gujarat,Hyderabad,Current,1187929,685,2617635,Home Loan,0,484,421651,Pending,Medium
+75,Customer_75,35,Female,Maharashtra,Mumbai,Savings,2038386,478,4750443,None,1,315,29686,Verified,High
+76,Customer_76,54,Male,Karnataka,Bengaluru,Current,2455396,457,4002191,Education Loan,1,99,113697,Pending,High
+77,Customer_77,52,Male,Karnataka,Ahmedabad,Current,1152591,599,2918285,Car Loan,1,432,22864,Verified,Medium
+78,Customer_78,53,Male,Delhi,Chennai,Current,1052208,887,1602292,Personal Loan,0,204,165210,Verified,Low
+79,Customer_79,52,Female,Karnataka,Hyderabad,Current,834954,753,3594615,Car Loan,0,206,275069,Verified,Low
+80,Customer_80,60,Female,Karnataka,Mumbai,Current,2073200,346,4113857,Education Loan,1,414,403991,Pending,High
+81,Customer_81,47,Male,Karnataka,Mumbai,Savings,633952,505,1313034,Education Loan,1,201,140004,Verified,High
+82,Customer_82,31,Female,Delhi,Kolkata,Current,1368063,551,2624415,Personal Loan,1,279,103430,Verified,Medium
+83,Customer_83,58,Female,Karnataka,Bengaluru,Current,518392,764,1459044,Personal Loan,0,172,455873,Verified,Low
+84,Customer_84,44,Female,Gujarat,Delhi,Savings,1620858,713,1744365,Education Loan,0,325,255225,Pending,Low
+85,Customer_85,30,Male,Tamil Nadu,Bengaluru,Current,302998,558,3564099,Personal Loan,1,339,302014,Verified,Medium
+86,Customer_86,43,Female,Gujarat,Chennai,Savings,2305686,743,1936916,Personal Loan,0,207,167865,Pending,Low
+87,Customer_87,62,Female,Karnataka,Hyderabad,Savings,2097333,316,4996082,None,1,227,40622,Verified,High
+88,Customer_88,29,Male,Gujarat,Chennai,Current,320052,440,4430207,None,1,448,58550,Pending,High
+89,Customer_89,31,Male,Telangana,Ahmedabad,Current,1761191,491,3589783,Car Loan,1,397,300836,Pending,High
+90,Customer_90,59,Female,Karnataka,Mumbai,Savings,1297172,837,2203396,Personal Loan,0,53,317198,Pending,Low
+91,Customer_91,45,Male,Delhi,Hyderabad,Savings,406339,756,1470544,Home Loan,0,305,88240,Verified,Low
+92,Customer_92,22,Male,West Bengal,Ahmedabad,Savings,2133245,876,4270423,Car Loan,0,336,252299,Pending,Low
+93,Customer_93,22,Female,Delhi,Hyderabad,Current,2176615,440,798650,Personal Loan,1,310,213889,Verified,High
+94,Customer_94,48,Female,Gujarat,Hyderabad,Current,484000,597,620738,Personal Loan,1,244,32382,Verified,Medium
+95,Customer_95,29,Female,Maharashtra,Mumbai,Current,267381,871,4983149,None,0,270,325939,Verified,Low
+96,Customer_96,23,Female,Tamil Nadu,Hyderabad,Current,377605,329,1598873,Education Loan,1,150,389224,Verified,High
+97,Customer_97,27,Male,Telangana,Mumbai,Current,2461750,620,1588597,Education Loan,0,174,235030,Verified,Medium
+98,Customer_98,48,Female,West Bengal,Mumbai,Savings,1028177,544,3094013,Car Loan,1,79,358776,Verified,High
+99,Customer_99,65,Male,Tamil Nadu,Kolkata,Current,1630946,703,2853841,Car Loan,0,366,119802,Pending,Low
+100,Customer_100,48,Female,Telangana,Delhi,Current,368947,626,2339303,None,0,229,144197,Pending,Medium
+101,Customer_101,27,Female,Delhi,Bengaluru,Current,1195341,404,882982,Car Loan,1,171,90069,Verified,High
+102,Customer_102,36,Male,West Bengal,Bengaluru,Savings,602545,427,1366521,Personal Loan,1,277,320118,Verified,High
+103,Customer_103,29,Male,Karnataka,Chennai,Current,630654,569,4204701,None,1,424,207793,Verified,Medium
+104,Customer_104,63,Male,Tamil Nadu,Mumbai,Savings,1687916,702,4794771,Car Loan,0,94,25231,Pending,Low
+105,Customer_105,21,Female,Delhi,Chennai,Savings,2131433,463,3119488,Education Loan,1,65,10670,Verified,High
+106,Customer_106,56,Male,Maharashtra,Bengaluru,Current,1723260,689,4426928,Personal Loan,0,203,339984,Pending,Medium
+107,Customer_107,35,Female,Karnataka,Bengaluru,Current,1674568,773,1546315,Education Loan,0,10,451177,Pending,Low
+108,Customer_108,53,Male,Delhi,Hyderabad,Current,2431949,556,2336336,None,1,450,160912,Pending,Medium
+109,Customer_109,36,Male,Gujarat,Mumbai,Current,1000831,336,2404123,Education Loan,1,457,66930,Verified,High
+110,Customer_110,62,Male,West Bengal,Kolkata,Current,976909,694,3356653,Home Loan,0,78,166612,Verified,Medium
+111,Customer_111,26,Female,Telangana,Mumbai,Savings,2015183,446,3556225,Education Loan,1,194,444563,Verified,High
+112,Customer_112,28,Male,Gujarat,Mumbai,Current,414066,482,1146571,Home Loan,1,420,325813,Pending,High
+113,Customer_113,48,Female,Telangana,Mumbai,Current,2375200,512,3961318,Education Loan,1,202,336408,Verified,High
+114,Customer_114,50,Female,Delhi,Hyderabad,Savings,1001536,407,1806227,Education Loan,1,260,310739,Verified,High
+115,Customer_115,58,Male,Tamil Nadu,Bengaluru,Savings,608016,510,4109058,None,1,107,421469,Pending,High
+116,Customer_116,59,Female,Maharashtra,Mumbai,Savings,397459,810,2541372,Education Loan,0,238,267713,Verified,Low
+117,Customer_117,49,Male,Maharashtra,Ahmedabad,Savings,1027048,695,3149203,Car Loan,0,44,138615,Pending,Medium
+118,Customer_118,65,Female,Maharashtra,Bengaluru,Savings,616307,881,339325,None,0,383,182131,Pending,Low
+119,Customer_119,24,Female,Tamil Nadu,Hyderabad,Current,1770930,777,868285,Home Loan,0,209,75061,Pending,Low
+120,Customer_120,59,Female,Gujarat,Kolkata,Current,2337265,587,2073360,Home Loan,1,364,219140,Pending,Medium
+121,Customer_121,58,Male,Tamil Nadu,Delhi,Savings,2138961,405,2284630,Education Loan,1,389,79096,Verified,High
+122,Customer_122,39,Male,Telangana,Ahmedabad,Current,2060955,377,4214599,Education Loan,1,254,383914,Pending,High
+123,Customer_123,29,Male,Tamil Nadu,Delhi,Current,1634959,797,1606583,Home Loan,0,278,97745,Verified,Low
+124,Customer_124,53,Male,Karnataka,Hyderabad,Current,1441200,411,1593460,None,1,193,177862,Verified,High
+125,Customer_125,22,Male,Delhi,Delhi,Savings,571700,526,3020069,None,1,39,152816,Pending,High
+126,Customer_126,33,Female,Karnataka,Ahmedabad,Current,2066739,663,1816953,Car Loan,0,211,202905,Pending,Medium
+127,Customer_127,52,Female,Maharashtra,Ahmedabad,Savings,695323,643,46785,None,0,223,24867,Pending,Medium
+128,Customer_128,42,Female,Tamil Nadu,Ahmedabad,Current,595630,852,3907193,Education Loan,0,242,285728,Verified,Low
+129,Customer_129,45,Male,Delhi,Hyderabad,Current,1905258,554,4841905,None,1,125,381223,Pending,Medium
+130,Customer_130,37,Female,Delhi,Mumbai,Savings,368011,814,1585336,Home Loan,0,345,171370,Verified,Low
+131,Customer_131,56,Female,Karnataka,Mumbai,Current,2184931,701,4488490,Education Loan,0,450,490499,Verified,Low
+132,Customer_132,42,Male,Gujarat,Ahmedabad,Current,2326059,489,596524,None,1,154,162874,Pending,High
+133,Customer_133,35,Male,Delhi,Chennai,Savings,1001289,526,1339049,Education Loan,1,213,443398,Pending,High
+134,Customer_134,53,Female,Gujarat,Hyderabad,Savings,2459420,620,770997,Car Loan,0,439,408518,Verified,Medium
+135,Customer_135,38,Female,Tamil Nadu,Mumbai,Current,462908,817,3292825,Car Loan,0,172,351710,Pending,Low
+136,Customer_136,38,Female,Tamil Nadu,Mumbai,Current,669532,421,4126551,Personal Loan,1,76,175154,Pending,High
+137,Customer_137,53,Male,Telangana,Bengaluru,Current,670300,350,586909,Car Loan,1,449,172408,Verified,High
+138,Customer_138,65,Female,West Bengal,Delhi,Current,1798715,896,3315958,Education Loan,0,453,422999,Verified,Low
+139,Customer_139,23,Female,Karnataka,Mumbai,Current,847104,816,1876956,None,0,319,410539,Pending,Low
+140,Customer_140,32,Female,Telangana,Ahmedabad,Current,1308379,564,3185962,None,1,374,269341,Pending,Medium
+141,Customer_141,59,Female,West Bengal,Kolkata,Current,226315,306,1006551,Car Loan,1,250,267315,Pending,High
+142,Customer_142,34,Female,Delhi,Mumbai,Savings,2040010,803,3549603,Car Loan,0,279,89880,Pending,Low
+143,Customer_143,57,Female,Tamil Nadu,Ahmedabad,Current,1942637,527,2621491,Personal Loan,1,128,77936,Verified,High
+144,Customer_144,51,Female,Telangana,Mumbai,Current,636144,709,2894691,Education Loan,0,483,172992,Pending,Low
+145,Customer_145,33,Male,West Bengal,Delhi,Current,872992,490,1878089,Education Loan,1,364,263110,Pending,High
+146,Customer_146,22,Female,Telangana,Chennai,Current,1041250,422,2681040,Home Loan,1,237,481117,Pending,High
+147,Customer_147,40,Female,Gujarat,Mumbai,Current,1854717,331,2876212,Home Loan,1,436,492554,Verified,High
+148,Customer_148,31,Male,Tamil Nadu,Bengaluru,Current,205362,793,4252293,None,0,297,36865,Verified,Low
+149,Customer_149,30,Male,Maharashtra,Ahmedabad,Savings,875270,645,3071913,Education Loan,0,317,403755,Pending,Medium
+150,Customer_150,25,Female,Delhi,Hyderabad,Savings,1443508,825,2106420,Car Loan,0,306,129407,Verified,Low
+151,Customer_151,64,Female,Gujarat,Kolkata,Current,914389,768,4726617,Education Loan,0,349,353382,Verified,Low
+152,Customer_152,57,Male,Gujarat,Mumbai,Current,2470186,837,2933172,Personal Loan,0,81,77971,Verified,Low
+153,Customer_153,58,Female,Telangana,Hyderabad,Current,2425006,344,4123076,Personal Loan,1,428,143723,Verified,High
+154,Customer_154,57,Female,West Bengal,Delhi,Savings,1310471,367,3709520,Car Loan,1,490,377782,Verified,High
+155,Customer_155,56,Male,Tamil Nadu,Chennai,Current,1613358,302,2707232,Car Loan,1,426,312312,Pending,High
+156,Customer_156,63,Female,Gujarat,Delhi,Savings,2236990,325,2343607,Personal Loan,1,474,487559,Pending,High
+157,Customer_157,62,Female,Karnataka,Hyderabad,Savings,794823,524,4544217,None,1,487,133157,Pending,High
+158,Customer_158,47,Male,Tamil Nadu,Chennai,Savings,2391220,699,2037684,None,0,396,15593,Pending,Medium
+159,Customer_159,45,Female,Delhi,Chennai,Savings,526196,515,4053841,Car Loan,1,404,91209,Pending,High
+160,Customer_160,43,Female,Telangana,Hyderabad,Current,1705345,491,1889284,Car Loan,1,187,88283,Pending,High
+161,Customer_161,24,Female,Telangana,Ahmedabad,Savings,2059976,807,746514,Education Loan,0,440,478837,Verified,Low
+162,Customer_162,41,Male,Telangana,Kolkata,Current,2479581,857,2872008,Car Loan,0,158,311508,Verified,Low
+163,Customer_163,56,Female,Delhi,Kolkata,Savings,429126,727,557752,Home Loan,0,286,390235,Pending,Low
+164,Customer_164,26,Male,West Bengal,Ahmedabad,Savings,917386,366,106118,Home Loan,1,100,368221,Verified,High
+165,Customer_165,35,Male,Tamil Nadu,Chennai,Savings,364355,462,1459273,None,1,432,264873,Pending,High
+166,Customer_166,60,Male,West Bengal,Hyderabad,Savings,428237,334,421266,Education Loan,1,239,100842,Verified,High
+167,Customer_167,55,Female,Karnataka,Delhi,Savings,327320,675,3271384,Personal Loan,0,200,92828,Verified,Medium
+168,Customer_168,50,Male,Gujarat,Mumbai,Savings,386217,636,1074180,Car Loan,0,55,152523,Verified,Medium
+169,Customer_169,62,Female,Gujarat,Chennai,Savings,380255,379,1288025,Personal Loan,1,165,241556,Pending,High
+170,Customer_170,32,Male,Tamil Nadu,Mumbai,Current,1953131,346,3685968,Car Loan,1,428,356086,Pending,High
+171,Customer_171,58,Male,Telangana,Hyderabad,Savings,1249895,367,1817331,Car Loan,1,120,68363,Verified,High
+172,Customer_172,47,Male,West Bengal,Hyderabad,Savings,1459427,857,1766170,Personal Loan,0,102,326802,Verified,Low
+173,Customer_173,21,Male,Tamil Nadu,Hyderabad,Current,1043590,686,816057,Personal Loan,0,354,28303,Pending,Medium
+174,Customer_174,28,Female,Karnataka,Mumbai,Savings,1856435,572,4258255,None,1,292,129274,Verified,Medium
+175,Customer_175,21,Female,Tamil Nadu,Ahmedabad,Savings,1954638,536,2341482,None,1,327,468559,Verified,High
+176,Customer_176,48,Male,Maharashtra,Kolkata,Savings,1988088,455,1669199,Home Loan,1,47,136515,Verified,High
+177,Customer_177,34,Male,Maharashtra,Kolkata,Current,1959448,499,1370514,Car Loan,1,59,427825,Verified,High
+178,Customer_178,49,Male,Gujarat,Hyderabad,Savings,1550480,640,2430785,Education Loan,0,138,231965,Pending,Medium
+179,Customer_179,50,Male,Delhi,Bengaluru,Current,350062,611,3106628,Personal Loan,0,193,75885,Pending,Medium
+180,Customer_180,54,Female,Karnataka,Hyderabad,Current,997092,713,431500,None,0,134,76091,Pending,Low
+181,Customer_181,24,Male,Tamil Nadu,Kolkata,Savings,2373694,638,1060210,Car Loan,0,446,365749,Pending,Medium
+182,Customer_182,44,Male,West Bengal,Mumbai,Current,474893,493,1157369,Education Loan,1,14,442023,Pending,High
+183,Customer_183,21,Male,Tamil Nadu,Delhi,Savings,1038748,437,277906,None,1,227,365874,Pending,High
+184,Customer_184,58,Female,Gujarat,Delhi,Savings,1913266,509,3754147,Personal Loan,1,61,190201,Verified,High
+185,Customer_185,21,Female,Tamil Nadu,Hyderabad,Current,1792670,543,4586927,Education Loan,1,251,408225,Verified,High
+186,Customer_186,31,Male,Tamil Nadu,Delhi,Current,1223817,883,3398069,None,0,280,181941,Pending,Low
+187,Customer_187,38,Male,Delhi,Bengaluru,Savings,558695,831,1846172,Home Loan,0,398,127716,Pending,Low
+188,Customer_188,34,Male,Tamil Nadu,Mumbai,Savings,2445695,350,2050464,Home Loan,1,129,364429,Verified,High
+189,Customer_189,54,Male,Gujarat,Kolkata,Current,1021265,839,1436982,Home Loan,0,68,483227,Pending,Low
+190,Customer_190,28,Female,Telangana,Bengaluru,Current,2035681,843,1542799,Education Loan,0,264,344508,Pending,Low
+191,Customer_191,51,Female,Tamil Nadu,Hyderabad,Current,1188207,739,1257932,Car Loan,0,82,114084,Pending,Low
+192,Customer_192,24,Female,Delhi,Delhi,Current,955921,713,2631842,Education Loan,0,288,209583,Pending,Low
+193,Customer_193,31,Female,Gujarat,Mumbai,Current,2132799,451,1338898,None,1,113,376870,Verified,High
+194,Customer_194,64,Male,Maharashtra,Bengaluru,Current,1944601,890,1725479,Education Loan,0,69,422523,Verified,Low
+195,Customer_195,40,Female,Tamil Nadu,Kolkata,Current,835344,552,458441,None,1,265,17778,Pending,Medium
+196,Customer_196,41,Male,Delhi,Ahmedabad,Savings,2133353,478,266043,Education Loan,1,420,444688,Pending,High
+197,Customer_197,30,Female,West Bengal,Delhi,Current,2435521,304,2072822,None,1,282,49004,Pending,High
+198,Customer_198,47,Male,Tamil Nadu,Hyderabad,Savings,1761388,409,3995644,Car Loan,1,269,476800,Verified,High
+199,Customer_199,25,Female,Telangana,Bengaluru,Savings,1339606,558,3522515,None,1,290,126692,Pending,Medium
+200,Customer_200,33,Male,Delhi,Bengaluru,Current,485584,739,4676139,Car Loan,0,397,251794,Pending,Low
