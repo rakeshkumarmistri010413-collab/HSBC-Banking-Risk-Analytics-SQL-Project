@@ -3,7 +3,7 @@
 ![Database](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql)
 ![Domain](https://img.shields.io/badge/Domain-Banking%20Risk-orange)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-green)
-![Tools](https://img.shields.io/badge/Tools-SQL%20|%20Power%20BI%20|%20Tableau-yellow)
+![Tools](https://img.shields.io/badge/Tools-SQL%20-yellow)
 
 ---
 
